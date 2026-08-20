@@ -3,11 +3,6 @@
 https://github.com/user-attachments/assets/3ba61ac0-f84b-45bf-babd-4988ba909a1e
 
 
-File Description:
-### ChatBot_Colab is the notebook for fine-tuning with the json dataset
-### ChatbotRAG_Colab is the notebook for RAG approach with the same dataset(json)
-### ChatbotRagPDF is the notebook for testing RAG with FAQ.pdf of MDE only(not included the json dataset)
-
 ## **Project Overview**
 This project develops an **AI-powered chatbot** tailored to support **international students** at **IMT Mines Alès** by providing quick and accurate access to essential academic and administrative information. The solution integrates **fine-tuned Meta-Llama-3.1-8B**, enhanced through **LoRA (Low-Rank Adaptation)** and **4-bit quantization**, for a resource-efficient deployment.
 
@@ -49,5 +44,4 @@ The dataset is curated to reflect real-world concerns and queries of internation
 
 ---
 
-## **Conclusion**
-This project delivers a robust, scalable, and multilingual AI chatbot solution, optimized for the needs of international students at IMT Mines Alès. By evaluating both **fine-tuned** and **RAG-based** methods, it offers insights into performance trade-offs and practical implementation choices for academic AI assistants.
+
